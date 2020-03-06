@@ -1,0 +1,19 @@
+#div1_drop{
+    height: 600px;
+    background: navajowhite;
+}
+#div2_drop{
+    height: 350px;
+    background: cadetblue;
+}
+
+
+#div1_task1{
+    width: 500px;
+    height: 500px;
+    background: yellowgreen;
+}
+
+#list .ui-selected{
+    background: palevioletred;
+}
